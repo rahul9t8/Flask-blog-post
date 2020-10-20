@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "fb_url": "https://www.facebook.com",
+    "tw_url": "https://www.twitter.com",
+    "gh_url": "https://www.github.com",
+    "local_uri_MDB": "mongodb://localhost:27017/codingthunder",
+    "prod_uri_MDB": "mongodb://localhost:27017/codingthunder",
+    "Mail-user" : "mailID@gmail.com",
+    "Mail-password" : "123456789",
+    "about" : "A blog (a truncation of \"weblog\") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s, \"multi-author blogs\" (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited.",
+    "no_of_posts" : 2,
+    "blog_name": "New Blog",
+    "admin_user": "admin",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\rahul\\PycharmProjects\\flask-tut"
+  }
+
+}
